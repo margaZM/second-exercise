@@ -6,10 +6,10 @@ public class Main {
             System.out.println("is zero");
             return;
         } else if (numberIf > 0) {
-            System.out.println("es positive");
+            System.out.println("is positive");
             return;
         }
-        System.out.println("es negative");
+        System.out.println("is negative");
 
 
         // second exercise
