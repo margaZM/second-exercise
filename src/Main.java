@@ -13,7 +13,7 @@ public class Main {
 
 
         // second exercise
-        int numberWhile = 1;
+        int numberWhile = 2;
         while (numberWhile < 3 ) {
             numberWhile++;
             System.out.println(numberWhile);
